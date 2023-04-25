@@ -1,7 +1,7 @@
 # 8-4-Journal Portfolio
 
 # How do I approach designing software?
-Becuas eof the complexoity of this project I did a lot of research and watching videos. Also I asked my peers for assistance on concepts and logic that struggled with grasping. As I got different parts of the code completded I ran the debug to make sure there were no erros, if there were I worked out each error on build at a time.
+Because of the complexity of this project, I did a lot of research and watched videos. Also, I asked my peers for assistance on concepts and logic that struggled with grasping. As I got different parts of the code completed, I ran the debug to make sure there were no errors, if there were I worked out each error on build at a time.
   
 # How do I approach developing programs?
 To make my project more organized, I decided to break the program up into smaller modules and have each one of those modules’ kind of independent of the others in that they don’t really know what each one is doing they all just kind of work together. Basically, you're sending information from one module to the next and the module that receives the information will do something with that information but it's kind of unknown about the rest of the program. The rest of the program doesn't really know what that module's doing and vice versa. It's kind of up to the user to help them talk to one another.
